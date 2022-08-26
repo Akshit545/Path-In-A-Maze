@@ -46,8 +46,6 @@ def drawer():
                     bfs(win, startEnd, walls)
                 if config['algo'] == 'dfs':
                     dfs(win, startEnd, walls)
-                if config['algo'] == 'astar':
-                    a_star(win, startEnd, walls)
 
 
 
