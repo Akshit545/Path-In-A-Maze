@@ -8,7 +8,6 @@ from collections import deque
 import time
 from bfs import bfs
 from dfs import dfs
-from a_star import a_star
 
 
 def drawer():
